@@ -1,6 +1,6 @@
 # GitHub-Intro
 # My First Repository
-[![NTU "KhPI"](https://img.shields.io/badge/NTU%20%22KhPI%22-red)](https://www.kpi.kharkov.ua/) [![CS-126](https://img.shields.io/badge/CS--126a-blue)](https://github.com/) [![Git](https://img.shields.io/badge/Git-orange?logo=git)](https://git-scm.com/)
+[![NTU "KhPI" | CS-126](https://img.shields.io/badge/NTU%20%22KhPI%22%20%7C%20CS--126-red)](https://www.kpi.kharkov.ua/) [![Git](https://img.shields.io/badge/Git-orange?logo=git)](https://git-scm.com/)
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-F75435?logo=git&logoColor=white)](https://git-scm.com/)
 ## Quick references
