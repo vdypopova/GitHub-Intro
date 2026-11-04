@@ -1,6 +1,6 @@
 # GitHub-Intro
 # My First Repository
-[![NTU "KhPI" CS-126](https://img.shields.io/badge/NTU%20%22KhPI%22-CS--126a-darkred)](https://github.com/)
+[![NTU "KhPI"](https://img.shields.io/badge/NTU%20%22KhPI%22-red)](https://www.kpi.kharkov.ua/) [![CS-126](https://img.shields.io/badge/CS--126a-blue)](https://github.com/) [![Git](https://img.shields.io/badge/Git-orange?logo=git)](https://git-scm.com/)
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-F75435?logo=git&logoColor=white)](https://git-scm.com/)
 ## Quick references
@@ -11,7 +11,7 @@
 
 * **Name:** *Vladyslava Popova*
 * **Group:** *CS-126*
-* **Date:** *03.10.2008*
+* **Date:** *04.11.2026*
 
 ## 📘 Description
 
@@ -88,3 +88,17 @@ This is an identity matrix of rank $N$.
 Here is the image I personally like.
 
 ![Cat](images/cat.jpg)
+
+## My coding skills
+
+I am skilled enough to do some coding - here is one of the examples:
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << "Hello, GitHub!";
+    return 0;
+}
