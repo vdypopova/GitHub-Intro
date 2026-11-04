@@ -75,19 +75,3 @@ I_n = \begin{bmatrix}
 \end{bmatrix}
 $$
 This is an identity matrix of rank $N$.
-
-
-## My coding skills
-
-I am skilled enough to do some coding - here is one of the examples:
-
-```cpp
-#include <iostream>
-
-using namespace std;
-
-int main() {
-    cout << "Hello, GitHub!";
-    return 0;
-}
-
