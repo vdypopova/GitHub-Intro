@@ -94,11 +94,4 @@ Here is the image I personally like.
 I am skilled enough to do some coding - here is one of the examples:
 
 ```cpp
-#include <iostream>
-
-using namespace std;
-
-int main() {
-    cout << "Hello, GitHub!";
-    return 0;
-}
+cout << "Hello, GitHub!";
