@@ -81,4 +81,4 @@ This is an identity matrix of rank $N$.
 
 Here is the image I personally like.
 
-![Cat](images/-9.jpg)
+![Cat](images/cat.jpg)
