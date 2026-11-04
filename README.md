@@ -12,3 +12,23 @@
 * **Name:** *Vladyslava Popova*
 * **Group:** *CS-126*
 * **Date:** *03.10.2008*
+
+## 📘 Description
+
+Hi! My name is Vladyslava, and this is my first GitHub repo. Here I practice my skills at writing markdown texts, LaTeX formulas and other fun things like that.
+
+## 📖 My favourite university subjects
+
+Currently my favourite subjects are:
+
+1. Math
+2. Coding
+3. English
+
+## 🎓 Online VS Offline studying
+
+Here is what I think about each of the studying options:
+
+| Online | Offline |
+| :--- | :--- |
+| You can sleep more; no need to commute | You can hang out with your pals |
