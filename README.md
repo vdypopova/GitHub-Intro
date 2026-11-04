@@ -40,6 +40,7 @@ Here are some of my favourite math formulas:
 $$
 y = ax^2 + bx + c
 $$
+
 This is the parabolic function formula; $a, b, c$ are coefficients, and $x$ denotes input variable.
 
 $$
