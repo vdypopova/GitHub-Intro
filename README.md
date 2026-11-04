@@ -46,11 +46,13 @@ This is the parabolic function formula; $a, b, c$ are coefficients, and $x$ deno
 $$
 k_2 = \frac{k_1}{z}
 $$
+
 This is the modified hyperbolic function; $k_1, k_2$ denote coefficients, $z$ input variable, $c$ - constant value.
 
 $$
 D = b^2 - 4ac, x_{1,2} = \frac{-b \pm \sqrt{D}}{2a}
 $$
+
 This is how to solve quadratic equation; $D$ is discriminant, $a, b, c$ denote equation's coefficients, $x_1, x_2$ denote the solutions.
 
 $$
@@ -60,11 +62,13 @@ $$
 -x + 2y + 3z = 10 
 \end{cases}
 $$
+
 This is a system of linear equations; $x, y, z$ denote the unknown variables.
 
 $$
 \sum_{i=1}^{N} \frac{i(i + 1)}{2}
 $$
+
 This is formula for finding the sum of first $N$ positive integers.
 
 $$
@@ -75,6 +79,7 @@ I_n = \begin{bmatrix}
 0 & 0 & \cdots & 1 
 \end{bmatrix}
 $$
+
 This is an identity matrix of rank $N$.
 
 
